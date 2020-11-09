@@ -1,0 +1,103 @@
+{
+  "activeSlideId": 1,
+  "slides": [
+    {
+      "id": 1,
+      "title": "Welcome to the QUIZ",
+      "question": "",
+      "answers": "",
+      "img": "https://lh3.googleusercontent.com/proxy/xoy-r0J4kzXrQbPYRyL9NwEyZTHz38MdsIGBpyNS6oox3TCQaet8FtbcXagjMC7c2e8AG76wQUC5hOgGaK7dz3s"
+    },
+    {
+      "id": 2,
+      "title": "1. TRUE or FALSE",
+      "question": "No word in the English language rhymes with: month, orange, silver or purple",
+      "answers": "",
+      "img": "https://www.abcmemes.com/media/created/nothing-rhymes-with-orange.jpg"
+    },
+    {
+      "id": 3,
+      "title": "2. TRUE or FALSE",
+      "question": "Prime Minister Winston Churchill was born in the ladies’ toilet during a dance",
+      "answers": "",
+      "img": "https://pbs.twimg.com/profile_images/378800000382529746/ce51f1d6deed86c0f0087e89fb4086b0.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "3. TRUE or FALSE",
+      "question": "French was once the official language for about 300 years in England",
+      "answers": "",
+      "img": "https://static-s.aa-cdn.net/img/ios/590761469/6277f4fd5592dec178446c23f766a97f?v=1"
+    },
+    {
+      "id": 5,
+      "title": "4. Have a Guess",
+      "question": "What percentage of people living in London were born outside of Great Britain?",
+      "answers": "A: 35% <br> B: 7 % <br> C: 52 % <br> D: 16.4 %",
+      "img": "https://at-cdn-s02.audiotool.com/2018/11/30/documents/akp8k2y9mz/0/cover256x256-01395154fa1f44d7b45faafae161a892.jpg"
+    },
+    {
+      "id": 6,
+      "title": "5. Have a Guess",
+      "question": "What is the real name of Big Ben?",
+      "answers": "A: St. Thomas Becket Tower <br> B: Elizabeth Tower <br> C: Alfred the Great Clock <br> D: Lady Diana Tower",
+      "img": "https://cdn141.picsart.com/234982348015202.jpg?type=webp&to=crop&r=256"
+    },
+    {
+      "id": 7,
+      "title": "6. Have a Guess",
+      "question": "How many people were killed in the Great Fire of London in 1666?",
+      "answers": "A: >10.000 <br> B: No one <br> C: 6 <br> D: 830",
+      "img": "https://wildgooseeducation-static.myshopblocks.com/images/2018/11/contain/256x256/b141677d9de303fc8fc660afe578ed84.jpg"
+    },
+    {
+      "id": 8,
+      "title": "7. Do you know?",
+      "question": "Name the regions that make up the United Kingdom",
+      "answers": "",
+      "img": "https://ps.w.org/interactive-uk-map/assets/icon-256x256.png?rev=2166534"
+    },
+    {
+      "id": 9,
+      "title": "8. Do you know?",
+      "question": "The two main political parties are",
+      "answers": "",
+      "img": "https://otb.cachefly.net/wp-content/uploads/2015/05/British-Houses-Of-Parliament-256x256.jpg"
+    },
+    {
+      "id": 10,
+      "title": "9. Do you know?",
+      "question": "What is the capital city of Scotland?",
+      "answers": "",
+      "img": "https://iconarchive.com/download/i109140/wikipedia/flags/GB-SCT-Scotland-Flag.ico"
+    },
+    {
+      "id": 11,
+      "title": "10. Name this actor/actress and film?",
+      "question": "",
+      "answers": "",
+      "img": "https://image.scoopwhoop.com/w620/s3.scoopwhoop.com/anj/photo/e6ec00f3-1fe2-4fff-a36e-74f1eb0ff5c0.jpg.webp"
+    },
+    {
+      "id": 12,
+      "title": "11. Name this actor/actress and film?",
+      "question": "",
+      "answers": "",
+      "img": "https://pa1.narvii.com/6809/f7e859fb5e885777d882c2e2d7956ca858400ef8_128.gif"
+    },
+    {
+      "id": 13,
+      "title": "12. Name this actor/actress and film?",
+      "question": "",
+      "answers": "",
+      "img": "https://i.pinimg.com/474x/6b/73/b0/6b73b0f678d89684371c7291d3783088.jpg"
+    },
+    {
+      "id": 14,
+      "title": "The End",
+      "question": "",
+      "answers": "",
+      "img": "https://lh3.googleusercontent.com/proxy/xoy-r0J4kzXrQbPYRyL9NwEyZTHz38MdsIGBpyNS6oox3TCQaet8FtbcXagjMC7c2e8AG76wQUC5hOgGaK7dz3s"
+    }
+  ]
+}

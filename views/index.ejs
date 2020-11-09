@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>English QUIZ</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="/css/main.css"></link>
+</head>
+<body>
+	<div class="card">
+		<h2 id="card-title"></h2>
+		<p id="card-question"></p>
+		<p id="card-answer"></p>
+		<img id="card-img">
+	</div>
+	<% if (isAdmin) { %>
+		<div class="buttons">
+			<button id="previous-button">Previous</button>
+			<button id="next-button">Next</button>
+		</div>
+	<% } %>
+	<script src="/js/main.js"></script>
+</body>
+</html>
